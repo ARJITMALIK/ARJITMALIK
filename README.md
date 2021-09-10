@@ -21,7 +21,7 @@
      <a href = "https://twitter.com/MalikArjit?s=08" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
      <a href = "https://instagram.com/code.creep?utm_medium=copy_link" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2019%2F11%2FLogo-Instagram.png&f=1&nofb=1" height = "30px" width = "55px" style = "margin:10px;"></a>
      <a href = "https://open.spotify.com/user/31z7r7ahs6gcjzxb6x2jtfygvgzy?si=8HnlY8B7SUCGDIUpm_Kq_g" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhuelskoetter.info%2Fwp-content%2Fuploads%2F2020%2F08%2Fspotify-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
-     <a href = "https://discord.gg/A8HJfcrcy6" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fdiscord-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
+     <a href = "https://discord.gg/sajfhadCHy" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fdiscord-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
 </p>
 
 ### Language and Tools
