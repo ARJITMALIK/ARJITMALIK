@@ -1,4 +1,6 @@
-### Hi there 👋
+### Lo there! 👋 I'm Arjit. University student at day , Javascript developer at night.
+<hr>
+
 
 <!--
 **ARJITMALIK/ARJITMALIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
