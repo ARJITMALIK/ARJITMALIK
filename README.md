@@ -17,27 +17,27 @@
 
 ### :mag_right:  Find me on
 <p>
-     <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
-     <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
-     <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2019%2F11%2FLogo-Instagram.png&f=1&nofb=1" height = "30px" width = "55px" style = "margin:10px;"></a>
-     <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhuelskoetter.info%2Fwp-content%2Fuploads%2F2020%2F08%2Fspotify-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
-     <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fdiscord-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
+     <a href = "https://www.linkedin.com/in/arjit-malik-799449206" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
+     <a href = "https://twitter.com/MalikArjit?s=08" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
+     <a href = "https://instagram.com/code.creep?utm_medium=copy_link" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2019%2F11%2FLogo-Instagram.png&f=1&nofb=1" height = "30px" width = "55px" style = "margin:10px;"></a>
+     <a href = "https://open.spotify.com/user/31z7r7ahs6gcjzxb6x2jtfygvgzy?si=8HnlY8B7SUCGDIUpm_Kq_g" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhuelskoetter.info%2Fwp-content%2Fuploads%2F2020%2F08%2Fspotify-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
+     <a href = "https://discord.gg/A8HJfcrcy6" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fdiscord-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
 </p>
 
 ### Language and Tools
 
 <p>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FLinux-Logo-2048x1158.png&f=1&nofb=1" height = "35px" width = "60px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frockpi.eu%2Fmw%2Fimages%2Fc%2Fc9%2FLogo.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fjavascript-png%2Fjs-logo-on-yellow-11.png&f=1&nofb=1" height = "35px" width = "60px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.viziopoint.com%2Fimages%2Fcss3-logo.png&f=1&nofb=1" height = "38px" width = "38px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhoing.io%2Fstorage%2F2020%2F10%2Fvscode-logo-2.png&f=1&nofb=1" height = "35px" width = "60px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Fvim-logo-clipart-9.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FEmacs%2FEmacs-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG36.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FBootstrap_(front-end_framework)%2FBootstrap_(front-end_framework)-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
- <a href = "" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F1024px-Git_icon.svg.png&f=1&nofb=1" height = "35px" width = "35px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FLinux-Logo-2048x1158.png&f=1&nofb=1" height = "35px" width = "60px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frockpi.eu%2Fmw%2Fimages%2Fc%2Fc9%2FLogo.png&f=1&nofb=1" height = "35px" width = "35px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fjavascript-png%2Fjs-logo-on-yellow-11.png&f=1&nofb=1" height = "35px" width = "60px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" height = "35px" width = "35px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.viziopoint.com%2Fimages%2Fcss3-logo.png&f=1&nofb=1" height = "38px" width = "38px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhoing.io%2Fstorage%2F2020%2F10%2Fvscode-logo-2.png&f=1&nofb=1" height = "35px" width = "60px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Fvim-logo-clipart-9.png&f=1&nofb=1" height = "35px" width = "35px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FEmacs%2FEmacs-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG36.png&f=1&nofb=1" height = "35px" width = "35px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FBootstrap_(front-end_framework)%2FBootstrap_(front-end_framework)-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F1024px-Git_icon.svg.png&f=1&nofb=1" height = "35px" width = "35px"></a>
  
 </p>
 
