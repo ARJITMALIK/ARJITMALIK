@@ -43,9 +43,7 @@
 
 ### :chart_with_upwards_trend:  Stats
 
-
 [![Arjit's github stats](https://github-readme-stats.vercel.app/api?username=ARJITMALIK&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
-
 
 <p align="center">
     <a href="https://github.com/ARJITMALIK/github-readme-streak-stats">
