@@ -27,7 +27,6 @@
 
 <p>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FLinux-Logo-2048x1158.png&f=1&nofb=1" height = "35px" width = "60px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frockpi.eu%2Fmw%2Fimages%2Fc%2Fc9%2FLogo.png&f=1&nofb=1" height = "35px" width = "35px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fjavascript-png%2Fjs-logo-on-yellow-11.png&f=1&nofb=1" height = "35px" width = "60px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" height = "35px" width = "35px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.viziopoint.com%2Fimages%2Fcss3-logo.png&f=1&nofb=1" height = "38px" width = "38px"></a>
