@@ -19,9 +19,7 @@
 <p>
      <a href = "https://www.linkedin.com/in/arjit-malik-799449206" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
      <a href = "https://twitter.com/MalikArjit?s=08" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
-     <a href = "https://instagram.com/code.creep?utm_medium=copy_link" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2019%2F11%2FLogo-Instagram.png&f=1&nofb=1" height = "30px" width = "55px" style = "margin:10px;"></a>
-     <a href = "https://discord.gg/sajfhadCHy" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fdiscord-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
-</p>
+
 
 ### Language and Tools
 
@@ -30,7 +28,6 @@
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fjavascript-png%2Fjs-logo-on-yellow-11.png&f=1&nofb=1" height = "35px" width = "60px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" height = "35px" width = "35px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.viziopoint.com%2Fimages%2Fcss3-logo.png&f=1&nofb=1" height = "38px" width = "38px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhoing.io%2Fstorage%2F2020%2F10%2Fvscode-logo-2.png&f=1&nofb=1" height = "35px" width = "60px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Fvim-logo-clipart-9.png&f=1&nofb=1" height = "35px" width = "35px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FEmacs%2FEmacs-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
  <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG36.png&f=1&nofb=1" height = "35px" width = "35px"></a>
