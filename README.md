@@ -11,7 +11,7 @@
 * :desktop_computer: I'm currently learning full stack web development.
 * :incoming_envelope: You can reach me at <a href = "mailto:arjitmalik2001@gmail.com">arjitmalik2001@gmail.com</a>.
 * :zap: Hobbies include :soccer: Football , 	:eyes: anime , :clapper: media editing.
-* :no_smoking: And I dont smoke either!!
+* :no_smoking: And I don't smoke either!!
  
  
 
@@ -24,16 +24,50 @@
 ### Language and Tools
 
 <p>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FLinux-Logo-2048x1158.png&f=1&nofb=1" height = "35px" width = "60px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fjavascript-png%2Fjs-logo-on-yellow-11.png&f=1&nofb=1" height = "35px" width = "60px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.viziopoint.com%2Fimages%2Fcss3-logo.png&f=1&nofb=1" height = "38px" width = "38px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Fvim-logo-clipart-9.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FEmacs%2FEmacs-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG36.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FBootstrap_(front-end_framework)%2FBootstrap_(front-end_framework)-Logo.wine.png&f=1&nofb=1" height = "40px" width = "60px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F1024px-Git_icon.svg.png&f=1&nofb=1" height = "35px" width = "35px"></a>
- <a href = "#" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fforum.sublimetext.com%2Fuploads%2Fst-apple-touch-icon.png&f=1&nofb=1" height = "40px" width = "40px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gcc/gcc-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" height = "40px" width = "60px"></a>
+  <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://cdn.iconscout.com/icon/free/png-256/archlinux-3521282-2944701.png" height = "40px" width = "40px"></a>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#" ><img style = "margin: 5px;" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" height = "40px" width = "40px"></a></span>
+ 
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" height = "40px" width = "60px"></a>
+ 
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" height = "40px" width = "60px"></a>
+
+  <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" height = "40px" width = "60px"></a>
+  <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://www.svgrepo.com/show/353655/discord-icon.svg" height = "40px" width = "60px"></a>
+ 
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" height = "40px" width = "60px"></a>
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height = "40px" width = "60px"></a>
+ 
+ 
+ 
+ 
+ 
+ <a href = "#" ><img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/thealgorithms/thealgorithms-original.svg" height = "40px" width = "60px"></a>
+ 
+
+ 
  
 </p>
 
