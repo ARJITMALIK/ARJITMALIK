@@ -1,6 +1,6 @@
 <img src = "https://github.com/ARJITMALIK/arjitmalik2001.github.io/blob/main/Lo%20There!%20%F0%9F%91%8B.png?raw=true">
 
-# Hey there! 👋 I'm Arjit. University student at day , Javascript developer at night.
+# Hey there! 👋 I'm Arjit. Software developer at day, hobbyist coder at night.
 
 <img src="https://komarev.com/ghpvc/?username=ARJITMALIK&label=Profile%20views&color=0cdeed&style=plastic" alt="ARJITMALIK" />
 
@@ -8,7 +8,7 @@
 
 ### :point_down:  Here is a little about me..
 * :books: I'm a student at [Meerut Institite of Engineering Technology](https://miet.ac.in/) :india:.
-* :desktop_computer: I'm currently learning full stack web development.
+* :desktop_computer: I'm currently learning advanced system design.
 * :incoming_envelope: You can reach me at <a href = "mailto:arjitmalik2001@gmail.com">arjitmalik2001@gmail.com</a>.
 * :zap: Hobbies include :soccer: Football , 	:eyes: anime , :clapper: media editing.
 * :no_smoking: And I don't smoke either!!
