@@ -17,8 +17,8 @@
 
 ### :mag_right:  Find me on
 <p>
-     <a href = "https://www.linkedin.com/in/arjit-malik-799449206" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
-     <a href = "https://twitter.com/MalikArjit?s=08" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
+     <a href = "https://www.linkedin.com/in/arjit-malik-799449206" ><img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" height = "30px" width = "60px" style = "margin:10px;"></a>
+     <a href = "https://twitter.com/MalikArjit?s=08" ><img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/twitter/twitter-original.svg" height = "30px" width = "30px" style = "margin:10px;"></a>
 
 
 ### Language and Tools
@@ -69,7 +69,7 @@
 
  
  
-</p>
+<!-- </p>
 
 ### :chart_with_upwards_trend:  Stats
 
@@ -81,7 +81,7 @@
     </a>
 </p> -->
 
-<br>
+<br> -->
 
 <!-- <a href="https://github.com/ARJITMALIK/github-readme-activity-graph"><img alt="Arjit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ARJITMALIK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
