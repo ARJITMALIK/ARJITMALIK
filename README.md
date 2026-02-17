@@ -7,7 +7,7 @@
 <a href="https://github.com/ARJITMALIK?tab=followers"><img src="https://img.shields.io/github/followers/ARJITMALIK?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ### :point_down:  Here is a little about me..
-* :books: I did my bachelors from [Meerut Institite of Engineering and Technology](https://miet.ac.in/) :india:.
+* :books: I did my bachelors from [Meerut Institute of Engineering and Technology](https://miet.ac.in/) :india:.
 * :desktop_computer: I'm currently learning advanced system design.
 * :incoming_envelope: You can reach me at <a href = "mailto:arjitmalik2001@gmail.com">arjitmalik2001@gmail.com</a>.
 * :zap: Hobbies include :soccer: Football , 	:eyes: anime , :clapper: media editing.
